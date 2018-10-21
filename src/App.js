@@ -4,7 +4,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App backgroundoverlay">
         <p className="App-intro">
           Welcome to the home of Burnside Hot Sauces!
         </p>
