@@ -7,6 +7,8 @@ class App extends Component {
       <div className="App backgroundoverlay">
         <p className="App-intro">
           Welcome to the home of Burnside Hot Sauces!
+
+          Please reach out with questions and inquiries to contact [at] burnsidehotsauce [dot] com
         </p>
       </div>
     );
